@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684501572 source:c:\users\hp\documents\codeblocks\proi.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
