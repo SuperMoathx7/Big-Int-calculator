@@ -1,10 +1,9 @@
-//Moath Wajeeh AbdAlbaqi
-//1210125
-//Section 1
-
 #include <stdio.h>
 #include <stdlib.h>
 #define null NULL
+
+//implemented by:  Moath AbdAlbaqi
+
 typedef struct subnode* subptr;
 typedef struct node* ptr;
 
